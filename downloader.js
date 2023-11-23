@@ -2,6 +2,8 @@ process.env['NODE_TLS_REJECT_UNAUTHORIZED'] = 0;
 
 // Alterado arquivo
 
+// Correção de bug
+
 const path = require('path');
 const fs = require('fs')
 const cheerio = require('cheerio')
